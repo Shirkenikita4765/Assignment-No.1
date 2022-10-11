@@ -1,0 +1,11 @@
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.frm_Login_Form.resources
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.Frm_Add_New_Student.resources
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.Properties.Resources.resources
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.csproj.GenerateResource.Cache
+D:\BCS3\Student_Login_Form\Student_Login_Form\bin\Debug\Student_Login_Form.exe
+D:\BCS3\Student_Login_Form\Student_Login_Form\bin\Debug\Student_Login_Form.pdb
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.exe
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.pdb
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.csprojResolveAssemblyReference.cache
+D:\BCS3\Student_Login_Form\Student_Login_Form\obj\x86\Debug\Student_Login_Form.frm_View_All_Student_List.resources
+D:\BCS3\Student_Login_Form\Student_Login_Form\bin\Debug\Student_Login_Form.exe.config
